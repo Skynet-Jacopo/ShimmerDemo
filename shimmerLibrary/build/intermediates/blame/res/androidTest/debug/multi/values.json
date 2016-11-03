@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\90516\\Desktop\\ShimmerDemo\\shimmerLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 44,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "C:\\Users\\90516\\Desktop\\ShimmerDemo\\shimmerLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 44,
+                        "endOffset": 203
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShimmerDemo.iml" filepath="$PROJECT_DIR$/ShimmerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shimmerDemo/shimmerDemo.iml" filepath="$PROJECT_DIR$/shimmerDemo/shimmerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shimmerLibrary/shimmerLibrary.iml" filepath="$PROJECT_DIR$/shimmerLibrary/shimmerLibrary.iml" />
+    </modules>
+  </component>
+</project>

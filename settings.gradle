@@ -1,0 +1,2 @@
+include ':shimmerLibrary'
+include ':shimmerDemo'

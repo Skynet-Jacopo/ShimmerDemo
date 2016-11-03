@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShimmerView"><attr format="color" name="reflectionColor"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Shimmer</string>
+    <string name="shimmer">Shimmer</string>
+    <string name="toggle_animation">Toggle animation</string>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+    </style>
+    <style name="MyTextView">
+    </style>
+</resources>

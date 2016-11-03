@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\90516\Desktop\ShimmerDemo\shimmerDemo\build\intermediates\pre-dexed\debug\support-v4-18.0.0_e86f39ebaa2c336ccf3f42405e8cd97f58a60b0d.jar" />
+    </item>
+    <item
+        jar="C:\Users\90516\Desktop\ShimmerDemo\shimmerDemo\build\intermediates\exploded-aar\ShimmerDemo\shimmerLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8a683540c9381cf19e8e0b9c5f178281e1b1ab32">
+        <dex dex="C:\Users\90516\Desktop\ShimmerDemo\shimmerDemo\build\intermediates\pre-dexed\debug\ShimmerDemo-shimmerLibrary-unspecified_0be38c61250e78e8ed84c085a931d34105062e29.jar" />
+    </item>
+
+</items>
